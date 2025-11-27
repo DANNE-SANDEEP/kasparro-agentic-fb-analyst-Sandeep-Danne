@@ -1,7 +1,4 @@
-# Agent Graph — Kasparro Agentic FB Performance Analyst  
-**Author:** <your name>  
-**Project:** kasparro-agentic-fb-analyst-<firstname-lastname>  
-
+# Agent Graph — Kasparro Agentic FB Performance Analyst
 ---
 
 ## 🎯 Overview
