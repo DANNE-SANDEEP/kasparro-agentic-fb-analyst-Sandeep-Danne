@@ -191,5 +191,3 @@ Assemble all outputs (insights, validations, creative ideas) into a final market
 - `creatives.json`  
 
 ---
-
-# ✔ Completed: agent_graph.md
