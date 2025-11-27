@@ -49,6 +49,7 @@ kasparro-agentic-fb-analyst-yourname/
 └───tests
         test_data_agent.py
         test_evaluator.py
+```
 
 ## ⚙️ Setup
 ```bash
