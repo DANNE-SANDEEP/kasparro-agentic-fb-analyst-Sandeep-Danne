@@ -1,56 +1,54 @@
 # Kasparro Agentic FB Ads Analyst
-## 🚀 Objective
+## 🎯 Objective
 An agentic AI system that analyzes Facebook ad performance, detects ROAS fluctuations, and generates creative improvement suggestions.
 
 ## 📂 Project Structure
 ```txt
 kasparro-agentic-fb-analyst-yourname/
+│   README.md
+│   requirements.txt
+│   run.py
 │
-├── README.md
-├── requirements.txt
-├── Makefile / run.sh
-├── config/
-│   └── config.yaml
+├───config
+│       config.yaml
 │
-├── data/
-│   ├── synthetic_fb_ads_undergarments.csv
-│   └── README.md
+├───data
+│       README.md
+│       synthetic_fb_ads_undergarments.csv
 │
-├── src/
-│   ├── orchestrator/
-│   │   └── run.py
-│   ├── agents/
-│   │   ├── planner_agent.py
-│   │   ├── data_agent.py
-│   │   ├── insight_agent.py
-│   │   ├── evaluator_agent.py
-│   │   └── creative_agent.py
-│   ├── utils/
-│   │   ├── data_loader.py
-│   │   ├── prompt_templates.py
-│   │   ├── config_reader.py
-│   │   └── logger.py
-│   └── __init__.py
+├───logs
+├───prompts
+│   │   creative.md
+│   │   evaluator.md
+│   │   insight.md
+│   │   planner.md
+│   │
+│   └───insight
+├───reports
+│       creative_agent_output.json
+│       insights_agent_output.json
+│       report.md
 │
-├── prompts/
-│   ├── planner_prompt.md
-│   ├── insight_prompt.md
-│   ├── evaluator_prompt.md
-│   └── creative_prompt.md
+├───src
+│   ├───agents
+│   │       creative_agent.py
+│   │       data_agent.py
+│   │       evaluator_agent.py
+│   │       insight_agent.py
+│   │       planner.py
+│   │
+│   ├───orchestrator
+│   │       run.py
+│   │
+│   └───utils
+│           config_reader.py
+│           data_loader.py
+│           logger.py
+│           prompt_templates.py
 │
-├── reports/
-│   ├── insights.json
-│   ├── creatives.json
-│   └── report.md
-│
-├── logs/
-│   ├── log_01.json
-│   └── langfuse_trace_01.json
-│
-└── tests/
-    ├── test_evaluator.py
-    └── test_data_agent.py
-
+└───tests
+        test_data_agent.py
+        test_evaluator.py
 
 ## ⚙️ Setup
 ```bash
