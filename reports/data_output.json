@@ -1,0 +1,145 @@
+{
+    "campaigns_requested": "Men ComfortMax Launch",
+    "date_range": "2025-03-17 to 2025-03-31",
+    "campaign_summaries": {
+        "total_spend": 25662.24,
+        "total_revenue": 142618.1,
+        "avg_roas": 10.19,
+        "avg_ctr": 0.015,
+        "total_clicks": 187878,
+        "total_impressions": 12433020,
+        "total_purchases": 4354
+    },
+    "peak_spend_day": {
+        "date": "2025-03-31 00:00:00",
+        "campaign_name": "men comfortmax launch",
+        "spend": 965.64
+    },
+    "peak_revenue_day": {
+        "date": "2025-03-20 00:00:00",
+        "campaign_name": "MEN COMFORTMAX LAUNCH",
+        "revenue": 14857.12
+    },
+    "daily_trends": [
+        {
+            "date": "2025-03-17",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 6212.120000000001,
+            "spend": 1561.67,
+            "roas": 5.11,
+            "ctr": 0.014266666666666665
+        },
+        {
+            "date": "2025-03-18",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 18654.46,
+            "spend": 1243.37,
+            "roas": 20.53,
+            "ctr": 0.016300000000000002
+        },
+        {
+            "date": "2025-03-19",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 9464.43,
+            "spend": 2047.37,
+            "roas": 5.859999999999999,
+            "ctr": 0.012175
+        },
+        {
+            "date": "2025-03-20",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 19974.2,
+            "spend": 2563.83,
+            "roas": 19.185,
+            "ctr": 0.016275
+        },
+        {
+            "date": "2025-03-21",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 4441.780000000001,
+            "spend": 1278.71,
+            "roas": 3.3299999999999996,
+            "ctr": 0.012733333333333333
+        },
+        {
+            "date": "2025-03-22",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 8213.64,
+            "spend": 1440.83,
+            "roas": 5.836666666666667,
+            "ctr": 0.016366666666666668
+        },
+        {
+            "date": "2025-03-23",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 5334.54,
+            "spend": 609.37,
+            "roas": 24.995,
+            "ctr": 0.016149999999999998
+        },
+        {
+            "date": "2025-03-24",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 10014.6,
+            "spend": 2029.05,
+            "roas": 4.37,
+            "ctr": 0.012025000000000001
+        },
+        {
+            "date": "2025-03-25",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 17812.05,
+            "spend": 2378.1,
+            "roas": 27.494,
+            "ctr": 0.01992
+        },
+        {
+            "date": "2025-03-26",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 11989.87,
+            "spend": 2027.99,
+            "roas": 7.779999999999999,
+            "ctr": 0.0174
+        },
+        {
+            "date": "2025-03-27",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 1951.06,
+            "spend": 925.87,
+            "roas": 6.493333333333332,
+            "ctr": 0.0106
+        },
+        {
+            "date": "2025-03-28",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 6373.29,
+            "spend": 1237.6399999999999,
+            "roas": 6.3,
+            "ctr": 0.014333333333333332
+        },
+        {
+            "date": "2025-03-29",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 6892.59,
+            "spend": 1606.6999999999998,
+            "roas": 4.6000000000000005,
+            "ctr": 0.01333333333333333
+        },
+        {
+            "date": "2025-03-30",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 7011.41,
+            "spend": 2586.04,
+            "roas": 2.6425,
+            "ctr": 0.014075
+        },
+        {
+            "date": "2025-03-31",
+            "campaign_name_clean": "men comfortmax launch",
+            "revenue": 8278.060000000001,
+            "spend": 2125.7,
+            "roas": 4.6175,
+            "ctr": 0.0124
+        }
+    ]
+}

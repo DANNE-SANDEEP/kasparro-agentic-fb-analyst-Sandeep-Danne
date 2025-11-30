@@ -1,0 +1,34 @@
+[
+    {
+        "hypothesis_id": "H1",
+        "campaign": "Men ComfortMax Launch",
+        "hypothesis": "Creative fatigue is causing declining click-through rates, indicating a need for refreshed ad creatives.",
+        "reasoning": "The daily trend data for the 'Men ComfortMax Launch' campaign exhibits significant volatility and periods of notable decline in CTR, particularly on 2025-03-19 (0.01217), 2025-03-24 (0.01202), and a campaign low of 0.0106 on 2025-03-27. These drops, often occurring after periods of higher engagement, suggest that the existing ad creatives may be losing their appeal or novelty to the target audience over time. Such diminishing user interest directly contributes to lower CTRs across the campaign duration, impacting overall ad efficiency.",
+        "metrics_considered": [
+            "ctr",
+            "revenue",
+            "spend"
+        ],
+        "confidence_level": "high",
+        "time_window": {
+            "start": "2025-03-17",
+            "end": "2025-03-31"
+        }
+    },
+    {
+        "hypothesis_id": "H2",
+        "campaign": "Men ComfortMax Launch",
+        "hypothesis": "Audience saturation or irrelevant targeting may be contributing to lower CTRs during periods of increased spend.",
+        "reasoning": "While creative fatigue is a primary factor, instances like 2025-03-24 show a significant increase in spend (2029.05) where CTR dropped to 0.01202, coupled with a low ROAS (4.37). Similarly, towards the end of the period on 2025-03-31, spend was high (2125.7) but CTR remained low at 0.0124. This pattern suggests that during attempts to scale or maintain reach, the campaign might be over-saturating its core audience or reaching less relevant segments, leading to diminishing returns on ad spend and lower engagement (CTR) from the expanded audience pool.",
+        "metrics_considered": [
+            "ctr",
+            "spend",
+            "roas"
+        ],
+        "confidence_level": "medium",
+        "time_window": {
+            "start": "2025-03-24",
+            "end": "2025-03-31"
+        }
+    }
+]

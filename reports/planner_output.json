@@ -1,0 +1,20 @@
+{
+    "objective": "Suggest creative ideas to improve CTR for 'Men ComfortMax Launch' campaign",
+    "steps": [
+        "data_loading",
+        "filter_data",
+        "performance_analysis",
+        "root_cause_analysis",
+        "creative_suggestion"
+    ],
+    "campaign_name": "Men ComfortMax Launch",
+    "analysis_window_days": 14,
+    "metrics_focus": [
+        "ctr"
+    ],
+    "agent_flow": [
+        "data_agent",
+        "insight_agent",
+        "creative_agent"
+    ]
+}
