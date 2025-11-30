@@ -4,10 +4,10 @@ from datetime import timedelta
 from difflib import get_close_matches
 from src.utils.data_utils import load_csv_data
 from src.utils.logging_utils import log_info, log_error
-
+from config import CONFIG
 
 class DataAgent:
-    def __init__(self, file_path="data/Cleaned.csv"):
+    def __init__(self, file_path=CONFIG["data"]["path"]):
         self.file_path = file_path
         self.data = load_csv_data(file_path)
 
